@@ -4,10 +4,20 @@
 	font-family: arial;
 	font-size: 2rem;
 }
+body{
+	margin-top: 200px;
+	background: linear-gradient(45deg, orange, red);
+	text-align: center;
+}
 .container{
+	margin: 0 auto;
+
 	width: fit-content;
 	height: 100px;
-	background: blue;
 	color: whitesmoke;
 	padding: 20px;
+}
+.container h2{
+	font-size: 20px;
+
 }
